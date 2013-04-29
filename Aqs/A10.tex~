@@ -1,0 +1,7 @@
+\subsection{}
+
+What is the Lee criterion?
+
+%If the magnitued of the noise transfer function over the entire ange never exceeds 1.5 then the modulator is likely to be stable
+%is that right?
+%max!NTF(e^jw)| < 1.5

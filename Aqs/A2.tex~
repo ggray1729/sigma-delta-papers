@@ -1,0 +1,9 @@
+\subsection{}
+
+%want this question to cover deriving the quantisation noise of a stndard quantiser
+Given a uniform probability distribution between $\frac{-V_{LSB}}{2}$ and $\frac{V_{LSB}}{2}$ what is the power of quantisation noise in a standard quantiser?
+\begin{align}
+    P = \int_{\frac{-V_{LSB}}{2}}^{\frac{V_{LSB}}{2}} \rho V^{2} dV
+\end{align}
+
+% you could do this from memory and just say V_{SB}^{2}/12

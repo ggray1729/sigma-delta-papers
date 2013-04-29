@@ -1,0 +1,22 @@
+\section{}
+
+%applying Nth order equation
+\begin{align}
+    \text{SQNR} = 6.02N + (20L + 10)\log_10(OSR) - 10\log_{10}\left(\frac{\pi^{2L}}{2L+1}\right)
+\end{align}
+
+    \subsection{}
+    % so the first step is easy
+    Calculate the expected SQNR for a 3rd order modulator with an OSR of 64 and a 3-bit quantiser.
+
+        \subsubsection{}
+
+        Therefore, what is the expected ENOB?
+
+
+    \subsection{}
+    %Baseband noise voltage
+    If the quantiser has a 1V full-scale signal amplitude what is the baseband noise voltage?
+
+    \subsection{}
+
