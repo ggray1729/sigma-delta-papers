@@ -27,9 +27,9 @@
 
     \subsection{}
     %final part should involve multi-bit feedback and the tones produced with DWA
-    If there were a 4 bit DWA DAC applied in this design with poorly matched components, what would you expect the period of the tones produced by it to be? 
+    If there were a 4 bit DWA DAC applied in this design with poorly matched components, what would you expect the period of the tones produced by it to be for an unchanging output of 4 to be? 
     
-    Unsure about this question because I haven't actually tried to solve it yet - assume the DC input from before and the first order modulator, is it actually possible to say anything about the periodicity of the output?
+%    Unsure about this question because I haven't actually tried to solve it yet - assume the DC input from before and the first order modulator, is it actually possible to say anything about the periodicity of the output? Other than that there will be a periodic component?
 
     %as a response to the DC input?
     %should double check this answer once I put it here
