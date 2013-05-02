@@ -1,0 +1,25 @@
+\documentclass[10pt]{article}
+\usepackage{amsmath}
+\usepackage{graphicx}
+
+\graphicspath{{./},{images/}}
+
+\begin{document}
+
+\section*{A}
+    \input{Aqs/A1}
+    \input{Aqs/A2}
+    \input{Aqs/A3}
+    \input{Aqs/A4}
+    \input{Aqs/A5}
+
+\section{B1}
+    \input{Bqs/B1}
+
+\section{B2}
+    \input{Bqs/B2}
+
+\section{B3}
+    \input{Bqs/B3}
+
+\end{document}

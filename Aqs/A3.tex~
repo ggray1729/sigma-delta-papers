@@ -1,9 +1,2 @@
 \subsection{}
-%given some DC input to a standard first order modulator
-%derive what the tone shoud be
-%provide time difference equations?
-Given the time difference equations for a first order modulator:
-\begin{align}
-    y(n+1) = y(n) + (u(n+1) - v(n)), v(n+1) = v(n)
-\end{align}
-
+%was going to cover tones but have already done that

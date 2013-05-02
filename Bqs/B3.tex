@@ -2,17 +2,20 @@
 
 %applying Nth order equation
 \begin{align}
-    \text{SQNR} = 6.02N + (20L + 10)\log_10(OSR) - 10\log_{10}\left(\frac{\pi^{2L}}{2L+1}\right)
+    \text{SQNR} = 6.02N + (20L + 10)\log_{10}(OSR) - 10\log_{10}\left(\frac{\pi^{2L}}{2L+1}\right)
 \end{align}
 
     \subsection{}
     % so the first step is easy
     Calculate the expected SQNR for a 3rd order modulator with an OSR of 64 and a 3-bit quantiser.
 
+    %answer is 123.11dB
+
         \subsubsection{}
 
         Therefore, what is the expected ENOB?
 
+        %ENOB = (SNDR-1.76)/6.02
 
     \subsection{}
     %Baseband noise voltage
@@ -20,5 +23,13 @@
 
     \subsection{}
     %and something else?
+    If the total noise contributions due to thermal noise sources equal $0.8\mu V$ RMS, and the signal amplitude of this circuit is 1V:
+    %assume 1V amplitude signals?
 
+        \subsubsection{}
+        Is quantisation or thermal noise dominant?
 
+        \subsubsection{}
+        What is the expected SNDR of the circuit, ignoring any other noise sources?
+
+        %sum in quadrature and then signal power over noise power logged
